@@ -1,0 +1,17 @@
+{
+  "name": "sting-replace",
+  "version": "1.0.0",
+  "description": "Replace the piece of any code file by other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replace"
+  ],
+  "author": "crizise.github.io",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-replace": "^0.5.4"
+  }
+}
